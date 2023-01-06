@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Starved Beny.png" width="3877" height="1476">
+  <SubTexture name="Starved Down0000" x="0" y="0"  width="267" height="597" frameX="-1086" frameY="-483" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Down0001" x="0" y="0"  width="267" height="597" frameX="-1086" frameY="-483" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Down0002" x="267" y="0"  width="261" height="606" frameX="-1092" frameY="-476" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Down0003" x="267" y="0"  width="261" height="606" frameX="-1092" frameY="-476" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Down0004" x="528" y="0"  width="252" height="612" frameX="-1099" frameY="-470" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Down0005" x="528" y="0"  width="252" height="612" frameX="-1099" frameY="-470" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0000" x="1754" y="0"  width="495" height="653" frameX="-1118" frameY="-425" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0001" x="1754" y="0"  width="495" height="653" frameX="-1118" frameY="-425" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0002" x="1266" y="0"  width="488" height="651" frameX="-1119" frameY="-441" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0003" x="1266" y="0"  width="488" height="651" frameX="-1119" frameY="-441" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0004" x="780" y="0"  width="486" height="649" frameX="-1120" frameY="-436" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Right0005" x="780" y="0"  width="486" height="649" frameX="-1120" frameY="-436" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0000" x="3476" y="0"  width="401" height="696" frameX="-937" frameY="-397" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0001" x="3476" y="0"  width="401" height="696" frameX="-937" frameY="-397" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0002" x="2628" y="0"  width="388" height="693" frameX="-948" frameY="-400" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0003" x="2628" y="0"  width="388" height="693" frameX="-948" frameY="-400" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0004" x="2249" y="0"  width="379" height="689" frameX="-958" frameY="-403" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Left0005" x="2249" y="0"  width="379" height="689" frameX="-958" frameY="-403" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0000" x="0" y="606"  width="460" height="702" frameX="-1091" frameY="-380" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0001" x="0" y="606"  width="460" height="702" frameX="-1091" frameY="-380" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0002" x="3016" y="0"  width="460" height="696" frameX="-1091" frameY="-386" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0003" x="3016" y="0"  width="460" height="696" frameX="-1091" frameY="-386" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0004" x="460" y="649"  width="460" height="706" frameX="-1091" frameY="-376" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0005" x="460" y="649"  width="460" height="706" frameX="-1091" frameY="-376" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0006" x="920" y="651"  width="460" height="723" frameX="-1091" frameY="-360" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0007" x="920" y="651"  width="460" height="723" frameX="-1091" frameY="-360" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0008" x="1380" y="653"  width="460" height="725" frameX="-1091" frameY="-356" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Idle0009" x="1380" y="653"  width="460" height="725" frameX="-1091" frameY="-356" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0000" x="2817" y="696"  width="470" height="780" frameX="-997" frameY="-290" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0001" x="2817" y="696"  width="470" height="780" frameX="-997" frameY="-290" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0002" x="2324" y="693"  width="493" height="766" frameX="-987" frameY="-304" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0003" x="2324" y="693"  width="493" height="766" frameX="-987" frameY="-304" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0004" x="1840" y="689"  width="484" height="756" frameX="-991" frameY="-315" frameWidth="2560" frameHeight="1440"/>
+  <SubTexture name="Starved Up0005" x="1840" y="689"  width="484" height="756" frameX="-991" frameY="-315" frameWidth="2560" frameHeight="1440"/>
+</TextureAtlas>

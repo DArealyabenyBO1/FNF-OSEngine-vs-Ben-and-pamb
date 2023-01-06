@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="benyk.png" width="3880" height="1017">
+  <SubTexture name="beni_down0001.png" x="0" y="0"  width="353" height="468" frameX="-464" frameY="-141" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_down0002.png" x="353" y="0"  width="353" height="473" frameX="-464" frameY="-137" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_down0004.png" x="706" y="0"  width="352" height="476" frameX="-464" frameY="-135" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_down0003.png" x="1058" y="0"  width="353" height="477" frameX="-464" frameY="-134" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0001.png" x="1411" y="0"  width="369" height="488" frameX="-455" frameY="-120" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_right0002.png" x="1780" y="0"  width="352" height="491" frameX="-461" frameY="-116" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_right0003.png" x="2132" y="0"  width="348" height="491" frameX="-460" frameY="-116" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_right0004.png" x="2480" y="0"  width="336" height="493" frameX="-460" frameY="-114" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0002.png" x="2816" y="0"  width="360" height="497" frameX="-460" frameY="-111" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0005.png" x="3176" y="0"  width="352" height="497" frameX="-464" frameY="-111" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0003.png" x="3528" y="0"  width="352" height="498" frameX="-464" frameY="-110" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0004.png" x="0" y="468"  width="352" height="499" frameX="-464" frameY="-109" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_left0002.png" x="352" y="473"  width="348" height="501" frameX="-449" frameY="-108" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_right0001.png" x="700" y="477"  width="364" height="498" frameX="-461" frameY="-109" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_left0003.png" x="1064" y="477"  width="338" height="503" frameX="-459" frameY="-106" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_left0001.png" x="1402" y="488"  width="357" height="501" frameX="-439" frameY="-108" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_left0004.png" x="1759" y="491"  width="330" height="503" frameX="-467" frameY="-106" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_up0004.png" x="2089" y="491"  width="353" height="511" frameX="-464" frameY="-105" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_up0003.png" x="2442" y="493"  width="353" height="513" frameX="-464" frameY="-103" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_up0002.png" x="2795" y="497"  width="353" height="516" frameX="-464" frameY="-99" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_up0001.png" x="3148" y="497"  width="353" height="520" frameX="-464" frameY="-95" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="beni_idle0006.png" x="3176" y="0"  width="352" height="497" frameX="-464" frameY="-111" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

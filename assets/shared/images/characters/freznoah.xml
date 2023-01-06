@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="freznoah.png" width="3767" height="1107">
+  <SubTexture name="noah_down0001.png" x="0" y="0"  width="353" height="527" frameX="-450" frameY="-96" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_down0002.png" x="353" y="0"  width="365" height="527" frameX="-452" frameY="-94" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_down0003.png" x="718" y="0"  width="355" height="527" frameX="-452" frameY="-94" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_idle0001.png" x="1073" y="0"  width="382" height="540" frameX="-457" frameY="-89" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_idle0002.png" x="1455" y="0"  width="385" height="543" frameX="-452" frameY="-87" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_right0002.png" x="1840" y="0"  width="386" height="547" frameX="-463" frameY="-101" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_right0003.png" x="2226" y="0"  width="363" height="547" frameX="-463" frameY="-101" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_idle0003.png" x="2589" y="0"  width="398" height="548" frameX="-448" frameY="-85" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_idle0004.png" x="2987" y="0"  width="386" height="548" frameX="-448" frameY="-85" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_up0001.png" x="3373" y="0"  width="394" height="555" frameX="-445" frameY="-65" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_up0002.png" x="0" y="527"  width="397" height="557" frameX="-444" frameY="-65" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_up0003.png" x="397" y="527"  width="397" height="557" frameX="-444" frameY="-65" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_left0001.png" x="794" y="540"  width="408" height="558" frameX="-402" frameY="-91" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_right0001.png" x="1202" y="543"  width="385" height="558" frameX="-465" frameY="-104" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_left0002.png" x="1587" y="547"  width="409" height="560" frameX="-408" frameY="-90" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="noah_left0003.png" x="1996" y="547"  width="409" height="560" frameX="-408" frameY="-90" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

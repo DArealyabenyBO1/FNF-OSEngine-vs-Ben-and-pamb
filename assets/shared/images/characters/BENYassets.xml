@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BENYassets.png" width="4047" height="1409">
+  <SubTexture name="Cutscene0005" x="0" y="0"  width="321" height="400" frameX="-177" frameY="-397" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Cutscene0003" x="321" y="0"  width="318" height="403" frameX="-174" frameY="-391" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Cutscene0004" x="639" y="0"  width="319" height="405" frameX="-176" frameY="-389" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Cutscene0002" x="958" y="0"  width="358" height="411" frameX="-172" frameY="-382" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Cutscene0001" x="1316" y="0"  width="344" height="543" frameX="-159" frameY="-245" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="left0001" x="1660" y="0"  width="449" height="604" frameX="-0" frameY="-165" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="left0002" x="2109" y="0"  width="430" height="615" frameX="-19" frameY="-154" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="left0003" x="2539" y="0"  width="408" height="622" frameX="-40" frameY="-147" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="right0003" x="2947" y="0"  width="360" height="639" frameX="-193" frameY="-141" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="right0002" x="3307" y="0"  width="365" height="643" frameX="-195" frameY="-136" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="right0001" x="3672" y="0"  width="375" height="645" frameX="-193" frameY="-134" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="down0002" x="0" y="400"  width="278" height="672" frameX="-148" frameY="-98" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0001" x="278" y="405"  width="445" height="674" frameX="-3" frameY="-114" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0002" x="723" y="411"  width="283" height="677" frameX="-163" frameY="-111" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="down0003" x="1006" y="411"  width="269" height="681" frameX="-147" frameY="-90" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0003" x="1275" y="543"  width="274" height="694" frameX="-169" frameY="-94" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0004" x="1549" y="604"  width="272" height="697" frameX="-169" frameY="-91" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0005" x="1821" y="604"  width="276" height="697" frameX="-169" frameY="-91" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0006" x="2097" y="615"  width="276" height="697" frameX="-169" frameY="-91" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="beny_idle0007" x="2373" y="622"  width="276" height="697" frameX="-169" frameY="-91" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Up0003" x="2649" y="622"  width="286" height="740" frameX="-113" frameY="-34" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Up0002" x="2935" y="639"  width="282" height="756" frameX="-117" frameY="-19" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="down0001" x="3217" y="643"  width="284" height="758" frameX="-153" frameY="-110" frameWidth="628" frameHeight="874"/>
+  <SubTexture name="Up0001" x="3501" y="645"  width="283" height="764" frameX="-116" frameY="-10" frameWidth="628" frameHeight="874"/>
+</TextureAtlas>

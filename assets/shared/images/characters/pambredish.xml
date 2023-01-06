@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pambredish.png" width="3676" height="2173">
+  <SubTexture name="Pamb_left0001" x="0" y="0"  width="495" height="497" frameX="-375" frameY="-223" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle0001" x="495" y="0"  width="506" height="502" frameX="-393" frameY="-218" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_left0002" x="1001" y="0"  width="492" height="503" frameX="-378" frameY="-217" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_down0001" x="1493" y="0"  width="530" height="504" frameX="-428" frameY="-216" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_right0002" x="2023" y="0"  width="555" height="508" frameX="-463" frameY="-212" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_right00001" x="2578" y="0"  width="569" height="509" frameX="-455" frameY="-211" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle0002" x="3147" y="0"  width="513" height="510" frameX="-393" frameY="-210" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_left0003" x="0" y="497"  width="483" height="510" frameX="-387" frameY="-210" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_right0003" x="483" y="503"  width="556" height="511" frameX="-458" frameY="-209" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_right0004" x="1039" y="504"  width="552" height="511" frameX="-458" frameY="-209" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_right0005" x="1591" y="508"  width="546" height="511" frameX="-458" frameY="-209" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle0006" x="2137" y="509"  width="508" height="523" frameX="-415" frameY="-197" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle0003" x="2645" y="510"  width="523" height="524" frameX="-398" frameY="-196" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle00007" x="0" y="1014"  width="508" height="525" frameX="-415" frameY="-195" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_down0002" x="508" y="1015"  width="535" height="526" frameX="-429" frameY="-194" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_idle00004" x="1043" y="1015"  width="508" height="528" frameX="-415" frameY="-192" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_down0003" x="1551" y="1019"  width="533" height="535" frameX="-430" frameY="-185" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_down0004" x="2084" y="1032"  width="543" height="535" frameX="-430" frameY="-185" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_down0005" x="2627" y="1034"  width="535" height="535" frameX="-430" frameY="-185" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_up0003" x="3162" y="1035"  width="477" height="603" frameX="-430" frameY="-114" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_up0002" x="0" y="1539"  width="475" height="619" frameX="-431" frameY="-101" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Pamb_up0001" x="475" y="1541"  width="475" height="632" frameX="-431" frameY="-87" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
