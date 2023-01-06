@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "noah_left"
+		},
+		{
+			"offsets": [
+				-1,
+				-11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "noah_down"
+		},
+		{
+			"offsets": [
+				-6,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "noah_up"
+		},
+		{
+			"offsets": [
+				-10,
+				17
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "noah_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "noah_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freznoah",
+	"position": [
+		-1050,
+		360
+	],
+	"healthicon": "noahf",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		255,
+		0
+	],
+	"camera_position": [
+		-30,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

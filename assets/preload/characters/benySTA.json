@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Starved Down"
+		},
+		{
+			"offsets": [
+				4,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Starved Up"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Starved Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Starved Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Starved Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_beny",
+	"position": [
+		-1060,
+		-380
+	],
+	"healthicon": "benySTAr",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-210,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

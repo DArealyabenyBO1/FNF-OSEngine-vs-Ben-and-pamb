@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "bv",
+			"speed": 0.155,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you manage to beat me"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "good job tho "
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait a minute i have a another song i dont remember the vocals"
+		},
+		{
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "its ok ill do my best"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the song name tho?"
+		},
+		{
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i dont remember"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shall we start?"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "ben",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah sure"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yippi"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pamb_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pamb_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pamb_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pamb_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Pamb_idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Pamb_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Pamb_down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pambredish",
+	"position": [
+		-460,
+		40
+	],
+	"healthicon": "rPAMB",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		240,
+		182
+	],
+	"camera_position": [
+		-190,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

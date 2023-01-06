@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				72
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "beni_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "beni_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "beni_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				74
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "beni_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				175,
+				70
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "beni_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benyk",
+	"position": [
+		-300,
+		-10
+	],
+	"healthicon": "benangry",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		58,
+		245
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

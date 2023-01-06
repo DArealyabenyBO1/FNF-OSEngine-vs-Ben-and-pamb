@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "beny_idle"
+		},
+		{
+			"offsets": [
+				-22,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beny_left"
+		},
+		{
+			"offsets": [
+				1,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beny_down"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beny_up"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beny_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benygood",
+	"position": [
+		-450,
+		-120
+	],
+	"healthicon": "beny",
+	"flip_x": true,
+	"healthbar_colors": [
+		39,
+		96,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

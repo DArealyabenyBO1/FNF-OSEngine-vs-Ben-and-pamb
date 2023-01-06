@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Benk ben dance"
+		},
+		{
+			"offsets": [
+				-9,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Benk sing left"
+		},
+		{
+			"offsets": [
+				-10,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Benk sing down"
+		},
+		{
+			"offsets": [
+				-5,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Benk sing up"
+		},
+		{
+			"offsets": [
+				-7,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Benk sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benykill",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "benangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

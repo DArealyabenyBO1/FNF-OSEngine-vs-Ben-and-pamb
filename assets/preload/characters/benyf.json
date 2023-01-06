@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				2,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				9,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				5
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Benyfrezz",
+	"position": [
+		330,
+		-120
+	],
+	"healthicon": "pastben",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		96,
+		209
+	],
+	"camera_position": [
+		-90,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
